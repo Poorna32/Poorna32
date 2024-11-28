@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
-- 💬 Ask me about **DevOps and Cloud**
+- 💬 Ask me about **MEME'S**
 
 - 📫 How to reach me **poornachandraga44@gmail.com**
 
