@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poorna32" alt="poorna32" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/poornaputtu32" target="blank"><img src="https://img.shields.io/twitter/follow/poornaputtu32?logo=twitter&style=for-the-badge" alt="poornaputtu32" /></a> </p>
 
 - 🔭 I’m currently working on **E Commerce Application**
 
